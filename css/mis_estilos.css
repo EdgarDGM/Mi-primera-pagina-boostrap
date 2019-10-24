@@ -1,0 +1,19 @@
+.fondo{
+background: blue;
+}
+.borde{
+  border:0.1px solid #fff;
+  height: 50px;
+  text-align: center;
+}
+.color1{ background: #eeee45;}
+.color2{ background: #fcc954;}
+.color3{ background: #94cc3c;}
+.color4{ background: #785ba7;}
+.color5{ background: #ee95ee;}
+.color6{ background: #343a40;}
+
+.fondoo {
+  background-image: url("../imagenes/fondo.jpg");
+  background-size: 100%;
+}
